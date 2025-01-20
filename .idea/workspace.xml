@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7055aa8b-c2e1-491a-8ac7-57aa97e6ee30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/SPARK 1.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automation/YouTube.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automation/close.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automation/command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automation/open.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automation/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/brain_data/dta.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/brain_data/qna_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/dlg_data/dlg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/Presentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/battery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/check_online_offline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/find_my_ip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/joke.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/make_voice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/play_audio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/random_advice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/remove_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/search_google.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/search_wiki.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/speed_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/welcome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function/wish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head/Ear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head/Mouth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head/Mouth2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Head/brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Training_model/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Training_model/model2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/friday/f2speak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/friday/fspeak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Aditya2121a&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Aditya2121a/SPARK1.0.git&quot;,
+    &quot;accountId&quot;: &quot;b6e4afb9-c14f-44cf-a376-1bfd16c6c3e6&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2jm6ILYO7mlotAV8ScV0TPYcWIV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Brian_TTS.executor": "Run",
+    "Python.Ear.executor": "Run",
+    "Python.Ear2.executor": "Run",
+    "Python.Mouth.executor": "Run",
+    "Python.Mouth2.executor": "Run",
+    "Python.YouTube.executor": "Run",
+    "Python.advice.executor": "Run",
+    "Python.battery.executor": "Run",
+    "Python.brain.executor": "Run",
+    "Python.check_online_offline.executor": "Run",
+    "Python.clock.executor": "Run",
+    "Python.close.executor": "Run",
+    "Python.command.executor": "Run",
+    "Python.dlg.executor": "Run",
+    "Python.ear 3.executor": "Run",
+    "Python.ear2.executor": "Run",
+    "Python.f2speak.executor": "Run",
+    "Python.find_my_ip.executor": "Run",
+    "Python.fspeak.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.model.executor": "Run",
+    "Python.model2.executor": "Run",
+    "Python.open.executor": "Run",
+    "Python.random_advice.executor": "Run",
+    "Python.rest.executor": "Run",
+    "Python.search_wiki.executor": "Run",
+    "Python.speed_test.executor": "Run",
+    "Python.temp.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.wish.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Programmes/SPARK 1.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\My Project\SPARK 1.0\Automation" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="brain.py" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SPARK 1.0" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7055aa8b-c2e1-491a-8ac7-57aa97e6ee30" name="Changes" comment="" />
+      <created>1721979824735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721979824735</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
