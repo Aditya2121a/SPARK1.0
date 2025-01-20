@@ -4,7 +4,7 @@ from Head.Mouth import *
 from Head.Ear import listen
 
 def get_temperature_openweather(city):
-    api_key = "242cebfe1b4866436fd51feb02369932"
+    api_key = ""
     endpoint = "https://api.openweathermap.org/data/2.5/weather"
 
     response = requests.get(endpoint, params={"q": city, "appid": api_key, "units": "metric"})
