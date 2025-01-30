@@ -1,3 +1,4 @@
+from Auth.trainer.recoganize import AuthenticateFace
 from Head.Ear import *
 from Function.check_online_offline import is_online
 from friday.fspeak import fspeak
@@ -63,16 +64,9 @@ def check_spark():
 
 
 def main(): 
-    speak("Give The Password Please !!!!!!!!!!!!")
-    #gui.hotkey('win', 'down')
-    check_spark()
+    if AuthenticateFace():
+        check_spark()
 
 
 main()
 
-# # while True:
-#         text = hearing().lower()
-#         if "s p a r k 123" in text:
-#             check_spark()
-#         else:
-#             pass

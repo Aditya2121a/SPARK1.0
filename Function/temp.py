@@ -3,8 +3,9 @@ import json
 from Head.Mouth import *
 from Head.Ear import listen
 
+
 def get_temperature_openweather(city):
-    api_key = ""
+    api_key = "4b1d673d0ed917f0117d29e68c5ab22d"
     endpoint = "https://api.openweathermap.org/data/2.5/weather"
 
     response = requests.get(endpoint, params={"q": city, "appid": api_key, "units": "metric"})
@@ -22,8 +23,9 @@ def get_temperature_openweather(city):
 
     return None
 
+
 def temp():
-      # Spark asks for input
+    # Spark asks for input
     city = listen()  # Listen to user's voice input for city/state name
     if city:
         temperature_celsius = get_temperature_openweather(city)
@@ -33,6 +35,3 @@ def temp():
             speak("Sorry, I couldn't fetch the temperature data at the moment.")
     else:
         speak("I didn't catch the city name. Please try again.")
-
-
-
